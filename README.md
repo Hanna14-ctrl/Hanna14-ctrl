@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey there, I'm Hanna!
 
-<!--
-**Hanna14-ctrl/Hanna14-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 A 15-year-old dreamer from UAE  
+💻 Exploring the world of **AI, Machine Learning, and Python**  
+🎓 10th Grade student | Future Business Leader + 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I'm Learning
+- Python basics and AI models
+- How to build smart projects 
+- Exploring GitHub & creating my first portfolio
+
+---
+
+### 🚀 My Goals
+- Learn to code real AI projects
+- Study business 
+- Build my own startup 
+
+---
+
+### 🌐 Connect with me
+- 📫 Email: *[3301@iischoolabudhabi.com]*  
+- ✨ Portfolio: Coming soon!
+
+---
+
+"Don't just dream. Build it, even if it's one step at a time.
+
